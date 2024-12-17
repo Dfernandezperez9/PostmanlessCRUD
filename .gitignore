@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Archivos de configuración
+.env
+
+# Archivos generados en el entorno de desarrollo
+*.log
+*.lock
+*.swp
+*.swo
+
+# Dependiendo de tu entorno y editor, puedes necesitar agregar más líneas
+# Por ejemplo, para proyectos de Visual Studio Code
+.vscode/
